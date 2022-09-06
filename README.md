@@ -1,5 +1,9 @@
 # Getting Started with Create React App and Redux
 
+![image](https://user-images.githubusercontent.com/43845318/188578853-6417ece8-bd57-43a6-ba81-ae4e8b8c22ad.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
