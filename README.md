@@ -1,6 +1,6 @@
 # Getting Started with Create React App and Redux
 
-![image](https://user-images.githubusercontent.com/43845318/188578853-6417ece8-bd57-43a6-ba81-ae4e8b8c22ad.png)
+![image](https://user-images.githubusercontent.com/43845318/188579064-05e5ac88-7a61-4cf1-b076-9e39c965c09b.png)
 
 
 
